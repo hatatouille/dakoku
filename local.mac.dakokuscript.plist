@@ -9,7 +9,7 @@
     <key>ProgramArguments</key>
     <array>
       <string>/opt/homebrew/bin/python3</string>
-      <string>shukkin.py</string>
+      <string>taikin.py</string>
     </array>
     <key>StartCalendarInterval</key>
     <array>
@@ -17,36 +17,36 @@
         <key>Weekday</key>
         <integer>1</integer>
         <key>Hour</key>
-        <integer>9</integer>
+        <integer>19</integer>
         <key>Minute</key>
-        <integer>55</integer>
+        <integer>10</integer>
         <key>Weekday</key>
         <integer>2</integer>
         <key>Hour</key>
-        <integer>9</integer>
+        <integer>19</integer>
         <key>Minute</key>
-        <integer>55</integer>
+        <integer>10</integer>
         <key>Weekday</key>
         <integer>3</integer>
         <key>Hour</key>
-        <integer>9</integer>
+        <integer>19</integer>
         <key>Minute</key>
-        <integer>55</integer>
+        <integer>10</integer>
         <key>Weekday</key>
         <integer>4</integer>
         <key>Hour</key>
-        <integer>9</integer>
+        <integer>19</integer>
         <key>Minute</key>
-        <integer>55</integer>
+        <integer>10</integer>
         <key>Weekday</key>
         <integer>5</integer>
         <key>Hour</key>
-        <integer>9</integer>
+        <integer>19</integer>
         <key>Minute</key>
-        <integer>55</integer>
+        <integer>10</integer>
       </dict>
     </array>
     <key>StandardOutPath</key>
-    <string>/var/log/system.log</string>
+    <string>/Users/hiroki-shiotsuka/work/selenium/dakoku/log/access.log</string>
   </dict>
 </plist>

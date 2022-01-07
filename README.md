@@ -18,12 +18,12 @@ $ unzip chromedriver_mac64_m1.zip
 `$ python shukkin.py`
 
 ## 5. おもむろに退勤
-`$ python shukkin.py`
+`$ python taikin.py`
 
 ## 6. スケジューラに登録したい場合
 ![キャプチャ](./img/shukkinscript.png)
 ```bash
 $ cp -p local.mac.dakokuscript.plist ~/Library/LaunchAgents/
 $ sudo chown root ~/Library/LaunchAgents/local.mac.dakokuscript.plist
-$ sudo launchctl load ~/Library/LaunchAgents/local.mac.dakokuscript.plist
+$ launchctl load ~/Library/LaunchAgents/local.mac.dakokuscript.plist
 ```
